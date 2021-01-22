@@ -1,0 +1,10 @@
+.vs
+Debug
+Release
+x64
+PLS_splitter.VC.db
+PLS_splitter.sln.DotSettings.user
+PLS_splitter/Debug
+PLS_splitter/Release
+PLS_splitter/x64
+PLS_splitter/PLS_splitter.vcxproj.user
